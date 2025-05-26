@@ -14,7 +14,9 @@ This project demonstrates a real-time data pipeline using **Apache Kafka** and *
 
 ---
 
-Architecture Diagram
+## 📊 Architecture
+
+![Architecture Diagram](./Architecture.png)
 ---
 
 ## 📦 Requirements
